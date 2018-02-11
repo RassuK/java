@@ -1,5 +1,5 @@
 public class Andmed2{
-    //Koosta funktsioon arvude summa leidmiseks
+    //Funktsioon ristküliku pindala leidmiseks
     public static int[] arvudeks(String[] andmed){
         int[] arvud=new int[andmed.length];
         for(int i=0; i<andmed.length; i++){
